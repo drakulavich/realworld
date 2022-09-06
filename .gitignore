@@ -29,4 +29,5 @@ pids
 # Dependency directories
 node_modules/
 
-
+# Local environment variables
+.env
